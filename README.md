@@ -4,7 +4,7 @@ This will enable you to flood any phishing pages that you may encounter with fak
 **HOW TO USE**:
   1. Find phishing page.
   2. Open dev tools / inspect page.
-  3. Open Network tab on dev tools and filter so you only see `Fetch/XHR`.
+  3. Open `Network` tab on dev tools and filter so you only see `Fetch/XHR`.
   4. At the top, click on preserve log if the page redirects you upon login.
   5. Submit a fake form to find out the following:
   6. There should be something related to "post" or similar.
