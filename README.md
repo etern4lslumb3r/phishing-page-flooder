@@ -1,11 +1,13 @@
 # phishing-page-flooder
 This will enable you to flood any phishing pages that you may encounter with fake usernames and passwords which you can customize to your liking.  
 
-**BEFORE USING**
-    Make sure to open the .exe file in the folder it was placed in or there will be errors.
-    Disclaimer:
-      According to virustotal.com, there is a positive flag for there being a virus in this executable. I assure you that this is a false positive
-      caused by the fact that the executable being compiled using the pyinstall python library. There are many cases online indicating that there are cases such as this.
+**BEFORE USING:**
+
+Make sure to open the .exe file in the folder it was placed in or there will be errors.
+Disclaimer:
+  According to virustotal.com, there is a positive flag for there being a virus in this executable. 
+  I assure you that this is a false positive caused by the fact that the executable being compiled 
+  using the pyinstall python library. There are many cases online indicating that there are cases such as this.
 
 **HOW TO USE**:
   1. Find phishing page.
