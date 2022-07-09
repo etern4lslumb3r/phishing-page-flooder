@@ -25,6 +25,6 @@ Disclaimer:
  
  **TO CUSTOMIZE POTENTIAL USERNAMES AND PASSWORDS:**
 
- Just append to the .txt documents present in the main file
- Make sure each instance of a name, adjective, or password is separated by line.
+Just append to the .txt documents present in the main file.
+Make sure each instance of a name, adjective, or password is separated by line.
  
